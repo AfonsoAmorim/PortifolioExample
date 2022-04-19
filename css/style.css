@@ -32,9 +32,9 @@ div > p{
     
 }
 
-div > p > a {
+div > p > strong > a {
     text-decoration: none;
-    
+
 }
 
 nav{
